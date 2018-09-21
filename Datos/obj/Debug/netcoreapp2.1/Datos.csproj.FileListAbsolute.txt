@@ -1,0 +1,8 @@
+D:\ServiceCore\Datos\bin\Debug\netcoreapp2.1\Datos.deps.json
+D:\ServiceCore\Datos\bin\Debug\netcoreapp2.1\Datos.dll
+D:\ServiceCore\Datos\obj\Debug\netcoreapp2.1\Datos.csproj.CoreCompileInputs.cache
+D:\ServiceCore\Datos\obj\Debug\netcoreapp2.1\Datos.AssemblyInfoInputs.cache
+D:\ServiceCore\Datos\obj\Debug\netcoreapp2.1\Datos.AssemblyInfo.cs
+D:\ServiceCore\Datos\bin\Debug\netcoreapp2.1\Datos.pdb
+D:\ServiceCore\Datos\obj\Debug\netcoreapp2.1\Datos.dll
+D:\ServiceCore\Datos\obj\Debug\netcoreapp2.1\Datos.pdb
